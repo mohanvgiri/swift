@@ -2,3 +2,4 @@
 Welcome to git
 You will have the paln here for GIT learning
 First create an account for GIT
+Then cretae a repository
