@@ -5,3 +5,6 @@ First create an account for GIT
 Then cretae a repository
 
 2nd iteration planning
+
+
+Complete for 2.0
