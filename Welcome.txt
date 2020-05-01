@@ -20,3 +20,5 @@ master edit
 from intelliJ
 
 creating new branch v2.0
+
+new changes for stash
